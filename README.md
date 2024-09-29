@@ -1,5 +1,2 @@
-The `.github` repo for **Project Volt**
-
-> **IP**: projectvolt.org
-> **STORE**: store.projectvolt.org
-> **WEBSITE**: projectvolt.org
+# Project Volt is no longer online.
+Thanks so much for playing!
