@@ -4,7 +4,7 @@
 
 # ⚡ Project Volt
 
-### 🚀 Coming Summer 2025
+### 🚀 Coming (Australian - AET Time) Summer 2025
 
 ---
 
