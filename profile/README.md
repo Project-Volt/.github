@@ -2,16 +2,16 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/Project-Volt)
 ![Static Badge](https://img.shields.io/badge/status-coming%20soon-orange)
 
-# ⚡ Project Volt
+# Project Volt
 
-### 🚀 Coming (Australian - AET Time) Summer 2025
+### Coming (Australian - AET Time) Summer 2025
 
 ---
 
-### 📢 Stay Connected
+### Stay Connected
 
-🔔 Updates, sneak peeks, and announcements  <br>
-💬 Live on [Discord](https://discord.gg/c4wuc23QWz) 
+Updates, sneak peeks, and announcements  <br>
+Live on [Discord](https://discord.gg/c4wuc23QWz) 
 
 ---
 
